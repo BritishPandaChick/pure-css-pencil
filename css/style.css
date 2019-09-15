@@ -1,8 +1,10 @@
+/* Base styles */
 * {
   margin: 0;
   padding: 0;
 }
 
+/* Pencil Body */
 .pencil {
   height: 380px;
   position: relative;
@@ -42,6 +44,7 @@
   position: relative;
 }
 
+/* Eraser end */
 .bottom {
   clear: both;
   height: 20px;
@@ -49,6 +52,7 @@
   border-radius: 0 0 10px 10px;
 }
 
+/* Pencil sharp end */
 .top {
   border-bottom: 60px solid #ffe8c6;
   border-left: 30px solid transparent;
