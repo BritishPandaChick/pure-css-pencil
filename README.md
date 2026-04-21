@@ -1,11 +1,14 @@
 # Pure CSS Pencil
-Codeplayer Pure CSS Pencil project. Made with HTML and CSS.
+CSS art of a pencil
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. The pencil will be in the middle of the page.
 
 ## Acknowledgements
 * TheCodePlayer.com
